@@ -1,1 +1,1 @@
-# drun
+Javascript learning phase.
